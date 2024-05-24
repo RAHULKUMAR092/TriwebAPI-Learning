@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>form html</title>
+  </head>
+  <body>
+    <h1>Form <span style="color: green;">HTML</span> </h1>
+    <form action="/server">
+      <div>
+        <label for="name">Name : </label>
+        <input type="text" id="name" placeholder="Enter name" name="name" />
+        <br /><br />
+      </div>
+
+      <div>
+        <label for="pass">Password :</label>
+        <input
+          type="password"
+          id="pass"
+          placeholder="Enter password"
+        /><br /><br />
+      </div>
+
+      <div>
+        <label for="email">Email :</label>
+        <input
+          type="text"
+          id="email"
+          placeholder="Enter email"
+          name="email"
+        /><br /><br />
+      </div>
+
+      <div>
+        <label for="mob">Mobile :</label>
+        <input
+          type="tel"
+          id="mob"
+          placeholder="Enter mobile number"
+        /><br /><br />
+      </div>
+      <div>
+        <label for="age">Age :</label>
+        <input type="number" placeholder="enter age" /><br /><br />
+      </div>
+      Gender: <br />
+      <input type="radio" name="gender" id="male" value="male" />
+      <label for="male">Male</label>
+
+      <input type="radio" name="gender" id="female" value="Female" />
+      <label for="female">Female</label>
+
+      <input type="radio" name="gender" id="other" value="other" />
+      <label for="other">other</label>
+      <div>
+        <label for="feedback">Feedback Form:</label><br />
+        <textarea
+          name="feedback"
+          id="feedback"
+          placeholder="comments..."
+        ></textarea>
+      </div>
+      <br />
+      <button type="submit" value="submit">Submit</button>
+      <button type="reset">Reset</button>
+    </form>
+  </body>
+</html>
