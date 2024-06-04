@@ -1,0 +1,7 @@
+Array 
+push()
+splice{}
+every()
+some()
+filter()
+find() => only fie=rst matching element in array.
