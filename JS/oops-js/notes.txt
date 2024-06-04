@@ -1,0 +1,42 @@
+
+
+
+bind function=>
+    function functionName(parameter1, parameter2,....){
+        // this = your object
+    }
+
+function bind =>
+    var newFunction = functionName.bind(your object);// create a new function
+    newFunction(arg1, arg2,...); // call the function explicitly
+
+
+
+Arrow function =>
+    let variableName= (parameter1, parameter2,...)=>{
+        function body here
+    }
+
+
+// for in loop=> 
+/*
+for(variable in referenceOfOject){
+    refernceOfObject[variable]// access value of the property
+}
+*/
+
+
+Destructing objects=>
+    var {property1:variable1,property2:variable2,property3:variable3};
+
+
+
+
+
+
+
+
+
+
+
+
