@@ -1,0 +1,33 @@
+Dom => document object model
+
+tree structure of elements in the web page.
+    window
+    document
+    elements
+
+
+1.Window
+    location.href
+    navigator.userAgent
+    screenY
+    screenX
+    alert()
+    confirm()
+    setTimeout
+    setInterval
+    scrollTo
+    open()
+
+
+setTimeout ()=>
+**************
+    it is used ti call a function after completion if spciied no of mill second.
+
+    functionName()
+    window.setTimeout(function,1000*60*5)
+    funtion functionName(){
+        .....
+    }
+    1000 milli sec = 1 sec
+
+    Ex. online exam
