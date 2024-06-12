@@ -1,4 +1,4 @@
-![logo](https://github.com/RAHULKUMAR092/RAHULKUMAR092/blob/main/git.png)
+![logo](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/blob/main/TriwebAPI.jpg)
 
 <h1 align="center">Hi 👋, I'm Rahul kumar</h1>
 <h3 align="center">A passionate web developer from India</h3>
