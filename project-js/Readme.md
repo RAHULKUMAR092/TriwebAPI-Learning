@@ -10,8 +10,8 @@ This folder consist all my projects done in this internship.
 
 ## Topics
  
- 1. [Basic JS Project](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/blob/main/Projects/BasicJSProject/readme.md)
- 2. [HTML CSS JS Project](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/blob/main/Projects/HTML_CSS_JS_Project/readme.md)
+ 1. [Basic JS Project](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/project-js/light-dark-mode)
+ 2. [HTML CSS JS Project](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/blob/main/project-js/Readme.md)
 
 ## Acknowledgements
 
