@@ -1,4 +1,4 @@
-![Logo](/TriwebAPI.jpg)
+![Logo](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/blob/main/triwebAPI.jpg)
 
 # TriwebAPI Internship
 This project consist all my learnings and various projects done in Internship at TriwebAPI.
