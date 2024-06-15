@@ -3,7 +3,7 @@
 # TriwebAPI Internship
 This project consist all my learnings and various projects done in Internship at TriwebAPI.
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/krish3742/TriwebAPI-Learning/) [![GitHub Issues](https://img.shields.io/github/issues/krish3742/TriwebAPI-Learning.svg)](https://github.com/krish3742/TriwebAPI-Learning/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/krish3742/TriwebAPI-Learning.svg)](https://github.com/krish3742/TriwebAPI-Learning/pulls) [![CCO License](https://img.shields.io/badge/license-CCO-yellow.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/) [![GitHub Issues](https://img.shields.io/github/issues/RAHULKUMAR092/TriwebAPI-Learning.svg)](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/RAHULKUMAR092/TriwebAPI-Learning.svg)](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/pulls) [![CCO License](https://img.shields.io/badge/license-CCO-yellow.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Table of Contents
 
@@ -14,21 +14,21 @@ This project consist all my learnings and various projects done in Internship at
 
 ## Topics
  
- 1. [Programming Concepts]()
-    - [OOP's Concepts]()
- 2. [HTML]()
-    - [Form]()
- 3. [CSS]()
-    - [Form]()
-    - [Time-Table]()
- 4. [JavaScript]()
- 5. [ES6]()
- 6. [ES2020]()
- 7. [MySQL]()
- 8. [MongoDB]()
- 9. [Projects]()
-    - [Basic JS Project]()
-    - [HTML CSS JS Project]()
+ 1. [Programming Concepts](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/programming)
+    - [OOP's Concepts](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/programming/oops)
+ 2. [HTML](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/html)
+    - [Form](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/html)
+ 3. [CSS](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/css)
+    - [Form](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/css/Form)
+    - [Time-Table](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/css/Dynamics_time-table)
+ 4. [JavaScript](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/JS)
+ 5. [ES6](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/ES6)
+ 6. [ES2020](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/ES2020)
+ 7. [MySQL](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/mysql)
+ 8. [MongoDB](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/mongoos)
+ 9. [Projects](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/project-js)
+    - [Basic JS Project](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/project-js)
+    - [HTML CSS JS Project](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/project-js/light-dark-mode)
 
 ## Learnings
 
