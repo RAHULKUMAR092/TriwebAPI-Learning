@@ -29,6 +29,8 @@ This project consist all my learnings and various projects done in Internship at
  9. [Projects](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/project-js)
     - [Basic JS Project](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/project-js)
     - [HTML CSS JS Project](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/project-js/light-dark-mode)
+10. [NodeJs](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/NodeJs)
+
 
 ## Learnings
 
@@ -48,6 +50,7 @@ A very thanks to the TriwebAPI team for giving me this opportunity.
  - [ES2020](https://youtube.com/playlist?list=PLIfcYFqzDXHmTrbi52rwEXyBt8X89MBih&si=oOKhec-uZ9o4p4-5)
  - [MySQL](https://www.youtube.com/playlist?list=PLIfcYFqzDXHkx3IvtBbsSwmXNljU5kdeM)
  - [MongoDB](https://www.youtube.com/playlist?list=PLIfcYFqzDXHkSPsm1DfMuA0TEgpycA2e1)
+ - [NodeJS](https://www.youtube.com/playlist?list=PLIfcYFqzDXHn8kzm8BT9zX8GYGKl9R0mw)
 
 
 ## Authors
