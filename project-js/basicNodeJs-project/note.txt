@@ -1,0 +1,80 @@
+Explanation:
+Connection Options: 
+        Added { useNewUrlParser: true, useUnifiedTopology: true } to the mongoose.connect method to avoid deprecation warnings.
+
+Error Handling: 
+        Used .then() and .catch() to handle connection success and errors.
+
+Async/Await: 
+        Used async/await syntax to handle the promise returned by the find method.
+This should resolve the issue you are facing with the Model.find() method.
+
+
+// insert data
+
+Explanation:
+Connection Options:
+         Added { useNewUrlParser: true, useUnifiedTopology: true } to the mongoose.connect method to avoid deprecation warnings.
+Error Handling: 
+        Used .then() and .catch() to handle connection success and errors.
+Async/Await: 
+        Used async/await syntax to handle the promise returned by the save method.
+Data Insertion: 
+        Created a new employee document and saved it to the database using new EmployeesModel({...}) and await newEmployee.save().
+
+
+
+// updata data
+Explanation:
+Connection Options: 
+        Added { useNewUrlParser: true, useUnifiedTopology: true } to the mongoose.connect method to avoid deprecation warnings.
+Error Handling: 
+        Used .then() and .catch() to handle connection success and errors.
+Async/Await: 
+        Used async/await syntax to handle the promise returned by the updateOne method.
+Update Operation: 
+        Used updateOne method to update the salary of the employee with empid: 1 to 60000.
+
+// multiple data insert
+
+Explanation:
+Connection Options: 
+        Added { useNewUrlParser: true, useUnifiedTopology: true } to the mongoose.connect method to avoid deprecation warnings.
+Error Handling: 
+        Used .then() and .catch() to handle connection success and errors.
+Async/Await: 
+        Used async/await syntax to handle the promise returned by the insertMany method.
+Data Insertion: 
+        Created an array of employee documents and inserted them into the database using EmployeesModel.insertMany(employees).
+
+
+//  multiple update data
+
+Explanation:
+
+Connection Options: 
+            Added { useNewUrlParser: true, useUnifiedTopology: true } to the mongoose.connect method to avoid deprecation warnings.
+
+Error Handling: 
+            Used .then() and .catch() to handle connection success and errors.
+Async/Await: 
+            Used async/await syntax to handle the promise returned by the bulkWrite method.
+Bulk Write Operation: 
+            Created an array of update operations and used bulkWrite to update multiple documents with different empid values.
+
+// delete multiple data 
+
+Explanation:
+
+Connection Options: 
+            Added { useNewUrlParser: true, useUnifiedTopology: true } to the mongoose.connect method to avoid deprecation warnings.
+Error Handling: 
+            Used .then() and .catch() to handle connection success and errors.
+Async/Await: 
+            Used async/await syntax to handle the promise returned by the deleteMany method.
+Delete Operation: 
+            Used deleteMany method to delete documents with empid values of 1, 2, or 3.
+
+
+
+
