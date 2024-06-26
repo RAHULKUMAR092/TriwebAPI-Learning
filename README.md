@@ -31,6 +31,7 @@ This project consist all my learnings and various projects done in Internship at
     - [HTML CSS JS Project](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/project-js/light-dark-mode)
     - [basicNodeJs-project](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/project-js/basicNodeJs-project)
 10. [NodeJs](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/NodeJs)
+11. [TypeScript](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/typescript)
 
 
 ## Learnings
@@ -52,6 +53,7 @@ A very thanks to the TriwebAPI team for giving me this opportunity.
  - [MySQL](https://www.youtube.com/playlist?list=PLIfcYFqzDXHkx3IvtBbsSwmXNljU5kdeM)
  - [MongoDB](https://www.youtube.com/playlist?list=PLIfcYFqzDXHkSPsm1DfMuA0TEgpycA2e1)
  - [NodeJS](https://www.youtube.com/playlist?list=PLIfcYFqzDXHn8kzm8BT9zX8GYGKl9R0mw)
+ - [TypeScript](https://www.youtube.com/playlist?list=PLIfcYFqzDXHlezzciX_hjiX1P9adebOHW)
 
 
 ## Authors
