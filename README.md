@@ -29,6 +29,7 @@ This project consist all my learnings and various projects done in Internship at
  9. [Projects](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/project-js)
     - [Basic JS Project](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/project-js)
     - [HTML CSS JS Project](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/project-js/light-dark-mode)
+    - [basicNodeJs-project](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/project-js/basicNodeJs-project)
 10. [NodeJs](https://github.com/RAHULKUMAR092/TriwebAPI-Learning/tree/main/NodeJs)
 
 
