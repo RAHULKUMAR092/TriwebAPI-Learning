@@ -1,0 +1,22 @@
+{
+  "name": "nodeJsProject",
+  "version": "1.0.0",
+  "description": "This project contains node js rest api",
+  "main": "app.js",
+  "author": "Rahul kumar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "typescript": "^5.5.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.14.9",
+    "nodemon": "^3.1.4"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "start:dev": "nodemon ./dist/app.js",
+    "build":"tsc"
+  }
+}

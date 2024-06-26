@@ -1,0 +1,24 @@
+
+yarn 
+node js express
+typescripte
+nodeemon
+multi layer -> controllers module router
+
+transpile tranpiler transcompiler
+configuration enviroment variable -> local server
+
+typescripte -- yarn add typescript
+
+move all source code file to src or create your file here
+extension is .transcompiler
+
+    - yarn add --dev @types/node
+    npm i --save-dev @types/express
+
+    "moduleResolution": "node",  
+    - 
+    - 
+
+
+
