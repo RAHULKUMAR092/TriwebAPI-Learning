@@ -1,8 +1,8 @@
 # How to handle Exception in NodeJS
 
-![Exception Handling](./exception-handeling-in-nodejs.png)
 
-[Watch video in Hindi/Urdu](https://youtu.be/2t9GWFiKj8o)
+
+[Watch video](https://youtu.be/2t9GWFiKj8o)
 
 - [Try...Catch Blocks](./try-catch.js) Standard way of handling exceptions in JavaScript
 - [Error-first Callback Pattern](./error-first-callback.js) Common in Node.js for asynchronous operations
