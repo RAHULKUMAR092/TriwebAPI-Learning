@@ -1,6 +1,6 @@
 # What is a Callback and How to Handle Callback Hell in JavaScript
 
-![Callback and Callback Hell](./callback.png)
+
 
 [Watch video in Hindi/Urdu](https://youtu.be/1oKMq-dmkfI)
 
