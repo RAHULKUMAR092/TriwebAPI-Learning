@@ -1,0 +1,117 @@
+
+/* Homepage.css */
+
+.container {
+  padding: 20px;
+  text-align: center;
+}
+
+.button {
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.title {
+  margin-top: 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, .td {
+  border-bottom: 2px solid #ddd;
+  padding: 10px;
+}
+
+td {
+  border-bottom: 1px solid #ddd;
+}
+
+.delete-button {
+  color: red;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+
+
+/* Adduser.css */
+
+.container {
+  padding: 20px;
+  text-align: center;
+}
+
+.button {
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.title {
+  margin-top: 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.input {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  width: calc(100% - 22px);
+}
+
+/* edit user css*/
+
+
+.container {
+  padding: 20px;
+  /* text-align: center; */
+}
+
+.button {
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.title {
+  margin-top: 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.th, .td {
+  border-bottom: 2px solid #ddd;
+  padding: 10px;
+}
+
+.td {
+  border-bottom: 1px solid #ddd;
+}
+
